@@ -50,10 +50,10 @@ define({
     "DIRECTORY_NAME"                    : "निर्देशिका का नाम",
 
     // Project error strings
-    "ERROR_LOADING_PROJECT"             : "Error Loading Project",
-    "OPEN_DIALOG_ERROR"                 : "An error occurred when showing the open file dialog. (error {0})",
-    "REQUEST_NATIVE_FILE_SYSTEM_ERROR"  : "An error occurred when trying to load the directory <span class='dialog-filename'>{0}</span>. (error {1})",
-    "READ_DIRECTORY_ENTRIES_ERROR"      : "An error occurred when reading the contents of the directory <span class='dialog-filename'>{0}</span>. (error {1})",
+    "ERROR_LOADING_PROJECT"             : "प्रोजेक्ट लोड करने में त्रुटि",
+    "OPEN_DIALOG_ERROR"                 : "ओपन फ़ाइल डायलॉग दिखाते समय एक त्रुटि हुई। (त्रुटि {0})",
+    "REQUEST_NATIVE_FILE_SYSTEM_ERROR"  : "निर्देशिका को लोड करने का प्रयास करते समय एक त्रुटि हुई <span class = 'dialog-filename'> {0}</span>. (error {1})",
+    "READ_DIRECTORY_ENTRIES_ERROR"      : "निर्देशिका <span class = 'dialog-filename'> {0} </ span> की सामग्री को पढ़ते समय एक त्रुटि हुई। (त्रुटि {1})" ,
 
     // File open/save error string
     "ERROR_OPENING_FILE_TITLE"          : "Error Opening File",
