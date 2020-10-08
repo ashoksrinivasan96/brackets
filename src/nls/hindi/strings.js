@@ -79,15 +79,15 @@ define({
     "ERROR_MIXED_DRAGDROP"              : "अन्य फ़ाइलों को खोलने के रूप में एक ही समय में एक फ़ोल्डर नहीं खोल सकता।",
 
     // User key map error strings
-    "ERROR_KEYMAP_TITLE"                : "Error Reading User Key Map",
-    "ERROR_KEYMAP_CORRUPT"              : "Your key map file is not valid JSON. The file will be opened so that you can correct the format.",
-    "ERROR_LOADING_KEYMAP"              : "Your key map file is not a valid UTF-8 encoded text file and cannot be loaded",
-    "ERROR_RESTRICTED_COMMANDS"         : "You cannot reassign shortcuts to these commands: {0}",
-    "ERROR_RESTRICTED_SHORTCUTS"        : "You cannot reassign these shortcuts: {0}",
-    "ERROR_MULTIPLE_SHORTCUTS"          : "You are reassigning multiple shortcuts to these commands: {0}",
-    "ERROR_DUPLICATE_SHORTCUTS"         : "You have multiple bindings of these shortcuts: {0}",
-    "ERROR_INVALID_SHORTCUTS"           : "These shortcuts are invalid: {0}",
-    "ERROR_NONEXISTENT_COMMANDS"        : "You are assigning shortcuts to nonexistent commands: {0}",
+    "ERROR_KEYMAP_TITLE"                : "उपयोगकर्ता कुंजी मानचित्र पढ़ने में त्रुटि",
+    "ERROR_KEYMAP_CORRUPT"              : "आपकी मुख्य मानचित्र फ़ाइल JSON मान्य नहीं है। फ़ाइल खोली जाएगी ताकि आप प्रारूप को सही कर सकें।",
+    "ERROR_LOADING_KEYMAP"              : "आपकी मुख्य मानचित्र फ़ाइल एक मान्य UTF-8 एन्कोडेड पाठ फ़ाइल नहीं है और इसे लोड नहीं किया जा सकता है",
+    "ERROR_RESTRICTED_COMMANDS"         : "आप इन आदेशों के शॉर्टकट पुन: असाइन नहीं कर सकते: {0}",
+    "ERROR_RESTRICTED_SHORTCUTS"        : "आप इन शॉर्टकट्स को पुन: असाइन नहीं कर सकते: {0}",
+    "ERROR_MULTIPLE_SHORTCUTS"          : "आप इन आदेशों के लिए कई शॉर्टकट्स दे रहे हैं: {0}",
+    "ERROR_DUPLICATE_SHORTCUTS"         : "आपके पास इन शॉर्टकट के कई बाइंडिंग हैं: {0}",
+    "ERROR_INVALID_SHORTCUTS"           : "ये शॉर्टकट अमान्य हैं: {0}",
+    "ERROR_NONEXISTENT_COMMANDS"        : "आप सम्‍मिलित समादेशों के शॉर्टकट्‍स दे रहे हैं: {0}",
 
     // Application preferences corrupt error strings
     "ERROR_PREFS_CORRUPT_TITLE"         : "Error Reading Preferences",
